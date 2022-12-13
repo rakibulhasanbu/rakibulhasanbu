@@ -1,27 +1,26 @@
-### Hi there 👋
+### Hi there 👋, I am Rakibul hasan
+#### Front end Web developer
+![Front end Web developer](https://media-exp1.licdn.com/dms/image/D5616AQFueEjND0kCsw/profile-displaybackgroundimage-shrink_350_1400/0/1670600027208?e=1676505600&v=beta&t=b-bhLGMDyX1eMu-q3PSFKOlEoWd1MBWayLc8lfZ5Ctw)
 
-<!-- Pinned Repositories -- >
+I am a front-end developer and am now learning MERN stack development in a programming hero web development course.
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+Skills: REACT / JS / HTML / CSS
 
-<br>
+- 🌱 I’m currently learning MERN stack web development course 
+- 💬 Ask me about MERN stack web development  
+- 📫 How to reach me: rakibulhasanbu@gmail.com 
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rakibulhasan-bu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakibulhasanbu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rakibulhasanbu)  
 
-<!-- GitHub Stats -- >
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasan-bu)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibulhasan-bu&show_icons=true&count_private=true)  
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-</a>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rakibulhasan-bu)  
+
+![GitHub metrics](https://metrics.lecoq.io/rakibulhasan-bu)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rakibulhasan-bu)  
+
+![Profile views](https://gpvc.arturio.dev/rakibulhasan-bu)  
