@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rakibul hasan
 #### Front end Web developer
-![Front end Web developer](https://media-exp1.licdn.com/dms/image/D5616AQFueEjND0kCsw/profile-displaybackgroundimage-shrink_350_1400/0/1670600027208?e=1676505600&v=beta&t=b-bhLGMDyX1eMu-q3PSFKOlEoWd1MBWayLc8lfZ5Ctw)
+
 
 I am a front-end developer and am now learning MERN stack development in a programming hero web development course.
 
