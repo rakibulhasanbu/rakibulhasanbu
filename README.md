@@ -1,12 +1,12 @@
 ### Hi there 👋, I am Rakibul hasan
-#### Front end Web developer
+#### Junior MERN stack Web developer
 
 
 I am a front-end developer and am now learning MERN stack development in a programming hero web development course.
 
 Skills: REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning MERN stack web development course 
+- 🌱 I’m currently learning the Advance MERN stack web development
 - 💬 Ask me about MERN stack web development  
 - 📫 How to reach me: rakibulhasanbu@gmail.com 
 
