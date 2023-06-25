@@ -2,7 +2,7 @@
 #### Junior MERN stack Web developer
 
 
-I am a front-end developer and am now learning MERN stack development in a programming hero web development course.
+I am a Junior MERN stack Web developer and am now learning MERN stack development in a programming hero web development course.
 
 Skills: REACT / JS / HTML / CSS
 
