@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Rakibul hasan
-#### Junior MERN stack Web developer
+#### MERN stack Web developer
 
 
-I am a Junior MERN stack Web developer and am now learning MERN stack development in a programming hero web development course.
+I am a MERN stack Web developer. Now I am working for a company as a Web developer and last six months in the Softkarrot team building a multi-vendor e-commerce website. Also, I am contributing an open-source UI library project named "Silk-ui".
 
-Skills: REACT / JS / HTML / CSS
+Skills: HTML / CSS / JS / Typescript / React.Js / Node.Js / Express.Js / MongoDB / Next.js / Redux 
 
 - 🌱 I’m currently learning the Advance MERN stack web development
 - 💬 Ask me about MERN stack web development  
@@ -16,8 +16,6 @@ Skills: REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasan-bu)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibulhasan-bu&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rakibulhasan-bu)  
 
 ![GitHub metrics](https://metrics.lecoq.io/rakibulhasan-bu)  
 
