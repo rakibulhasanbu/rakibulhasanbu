@@ -19,7 +19,8 @@
 - 💬 Ask me about **Next.js**
 - 📫 Reach me **rakibulhasanbu@gmail.com**
 - :calendar: Looking to contribute to web-based open-source projects
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1aeh1ntzkpaaX_0Q8RfYc8DHpp8-RqcaQ/view?usp=drive_link) and :fire: [Portfolio](https://rakibulhasan.vercel.app/).
+- 📝 Checkout my <a href="https://drive.google.com/file/d/1aeh1ntzkpaaX_0Q8RfYc8DHpp8-RqcaQ/view?usp=drive_link" target="_blank">Resume</a>
+ and :fire: <a href="https://rakibulhasan.vercel.app/" target="_blank">Portfolio</a>.
 
 </td>
 <td width="45%" align="center">
