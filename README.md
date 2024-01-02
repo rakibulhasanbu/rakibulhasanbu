@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Next.js**
 
-- 📫 How to reach me **rakibuklkibulhasanbu@gmail.com**
+- 📫 How to reach me **rakibulhasanbu@gmail.com**
 
 </td>
 <td width="50%" align="center">
