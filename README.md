@@ -15,7 +15,7 @@
 <tr border="none">
 <td width="55%" align="left">
   
-- 🌱 I’m currently learning **Advance Full Stack Web Development**
+- 🌱 Now I’m learning **Advance Full Stack Web Development**
 - 💬 Ask me about **Next.js**
 - 📫 Reach me **rakibulhasanbu@gmail.com**
 - :calendar: Looking to contribute to web-based open-source projects
@@ -82,6 +82,7 @@
     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Prisma.svg" alt="prisma" width="50" height="50"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> </a> 
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50"/> </a> 
+   <a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/hHDwKhD/pngwing-com.png" alt="JWT" width="50" height="50"/> </a> 
    <a href="https://jestjs.io/docs/getting-started" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jest.svg" alt="express" width="50" height="50"/> </a> 
    <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="50" height="50"/> </a> 
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> </a> 
@@ -89,4 +90,13 @@
   <a href="https://vercel.com/docs" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vercel-Light.svg" alt="Vercel" width="50" height="50"/> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/> </a>
   </p>
+
+---
+
+<h3 align="center">Another GitHub Statistics:</h3>
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakibulhasan-bu&theme=github_dark" width="32.5%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakibulhasan-bu&theme=github_dark" width="32.5%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakibulhasan-bu&theme=github_dark&utcOffset=6" width="32.5%" />
+</div>
 
