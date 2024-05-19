@@ -5,10 +5,10 @@
    <a href="https://leetcode.com/rakibulhasanbu">
     <img src="https://cp-logo.vercel.app/leetcode/rakibulhasanbu" alt="Leet code rating" />
   </a>
-    <a href="https://github.com/rakibulhasan-bu?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/rakibulhasan-bu?color=green&logo=github">
+    <a href="https://github.com/rakibulhasanbu?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/rakibulhasanbu?color=green&logo=github">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rakibulhasan-bu&label=Profile%20views&color=0e75b6&style=flat" alt="rakibulhasan-bu" /> 
+  <img src="https://komarev.com/ghpvc/?username=rakibulhasanbu&label=Profile%20views&color=0e75b6&style=flat" alt="rakibulhasanbu" /> 
 </p>
 
 <table align="center">
@@ -41,13 +41,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rakibulhasan-bu&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rakibulhasanbu&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulhasan-bu&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulhasanbu&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rakibulhasan-bu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rakibulhasanbu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
   
   </td>
 </tr>
@@ -57,10 +57,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/rakibulhasanbu" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="rakibulhasan-bu" height="45" width="45" /></a>
-<a href="https://www.facebook.com/rakibulhasanbu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibulhasan-bu" height="45" width="45" /></a>
-<a href="https://discord.com/users/1007692418965049425" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" alt="rakibulhasan-bu" height="45" width="45" /></a>
-<a href="https://twitter.com/rakibulhasan_33" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="rakibulhasan-bu" height="45" width="45" /></a>
+<a href="https://www.linkedin.com/in/rakibulhasanbu" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="rakibulhasanbu" height="45" width="45" /></a>
+<a href="https://www.facebook.com/rakibulhasanbu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibulhasanbu" height="45" width="45" /></a>
+<a href="https://discord.com/users/1007692418965049425" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" alt="rakibulhasanbu" height="45" width="45" /></a>
+<a href="https://twitter.com/rakibulhasan_33" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="rakibulhasanbu" height="45" width="45" /></a>
 </p>
 
 ---
@@ -95,8 +95,8 @@
 
 <h3 align="center">Another GitHub Statistics:</h3>
 <div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakibulhasan-bu&theme=github_dark" width="32.5%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakibulhasan-bu&theme=github_dark" width="32.5%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakibulhasan-bu&theme=github_dark&utcOffset=6" width="32.5%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakibulhasanbu&theme=github_dark" width="32.5%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakibulhasanbu&theme=github_dark" width="32.5%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakibulhasanbu&theme=github_dark&utcOffset=6" width="32.5%" />
 </div>
 
